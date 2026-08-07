@@ -1,4 +1,4 @@
-COA-THREE-BUS-LINES-IN-COMP-ARCHITURE-
+
 Self-Learning Article: Cache Memory in Computer Architecture
 
 ## Introduction
